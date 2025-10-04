@@ -1,9 +1,9 @@
 import { Text, View } from "react-native";
 
-export default function Explore() {
+export default function SignIn() {
   return (
     <View>
-      <Text>Explore</Text>
+      <Text>Sign in</Text>
     </View>
   );
 }
